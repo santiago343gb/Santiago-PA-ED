@@ -54,6 +54,5 @@ public class Perez_rectangulo {
 	
 	//guradar2
 	
-	//jsfaofgjo
 	
 }
