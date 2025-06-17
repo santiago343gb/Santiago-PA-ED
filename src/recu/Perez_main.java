@@ -28,6 +28,6 @@ public class Perez_main {
         double diferenciaAreas = Math.abs(areaCirculo1 - areaRectangulo2);
         System.out.println("Diferencia de áreas entre " + circulo1.getNombre() + " y el cuadrado: " + diferenciaAreas);
     }
-//jgks
+//doma
   
 }
