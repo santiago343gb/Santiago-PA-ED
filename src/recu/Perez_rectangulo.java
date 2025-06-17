@@ -1,5 +1,9 @@
 package recu;
 
+/**Santiago Perez
+ * version 4
+ * Enb esta clase estan las propiedades de los rectangulos
+ */
 public class Perez_rectangulo {
 
 	private int Id;
@@ -50,7 +54,7 @@ public class Perez_rectangulo {
 				+ getColor() + ", getClass()=" + getClass() + ", hashCode()=" + hashCode() + ", toString()="
 				+ super.toString() + "]";
 	}
-	
+
 	
 	//guradar2
 	

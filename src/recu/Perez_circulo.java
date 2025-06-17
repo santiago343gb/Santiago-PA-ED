@@ -3,6 +3,10 @@ package recu;
 //comit para evitar perderlo todo//
 
 //hola/
+/**Santiago Perez
+ * version 5
+ * en la clase se describen las propiedades de los circulos
+ */
 public class Perez_circulo {
 
 	private int Id;
@@ -63,5 +67,4 @@ public class Perez_circulo {
     }
 
    
-
 }
